@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@source "../views";
+
+@theme {
+    --color-demo: rgb(230, 121, 99);
+}
+
